@@ -1,0 +1,10 @@
+C:\Users\phuon\source\repos\de03_Doraemon\de03_Doraemon\bin\Debug\de03_Doraemon.exe.config
+C:\Users\phuon\source\repos\de03_Doraemon\de03_Doraemon\bin\Debug\de03_Doraemon.exe
+C:\Users\phuon\source\repos\de03_Doraemon\de03_Doraemon\bin\Debug\de03_Doraemon.pdb
+C:\Users\phuon\source\repos\de03_Doraemon\de03_Doraemon\obj\Debug\de03_Doraemon.csproj.AssemblyReference.cache
+C:\Users\phuon\source\repos\de03_Doraemon\de03_Doraemon\obj\Debug\de03_Doraemon.Form1.resources
+C:\Users\phuon\source\repos\de03_Doraemon\de03_Doraemon\obj\Debug\de03_Doraemon.Properties.Resources.resources
+C:\Users\phuon\source\repos\de03_Doraemon\de03_Doraemon\obj\Debug\de03_Doraemon.csproj.GenerateResource.cache
+C:\Users\phuon\source\repos\de03_Doraemon\de03_Doraemon\obj\Debug\de03_Doraemon.csproj.CoreCompileInputs.cache
+C:\Users\phuon\source\repos\de03_Doraemon\de03_Doraemon\obj\Debug\de03_Doraemon.exe
+C:\Users\phuon\source\repos\de03_Doraemon\de03_Doraemon\obj\Debug\de03_Doraemon.pdb
